@@ -19,8 +19,12 @@
 🔸 Год окончания: 2026
 
 ## 💻 Навыки 💻
-🔸 Языки программирования: C++, JS
-🔸 Технологии: Nginx, Docker, Node.js, Linux
+[![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&style=flat-square&logoColor=white)](https://en.cppreference.com/)
+[![JS](https://img.shields.io/badge/-JS-F7DF1E?logo=javascript&style=flat-square&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Nginx](https://img.shields.io/badge/-Nginx-269539?logo=nginx&style=flat-square&logoColor=white)](https://nginx.org/)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&style=flat-square&logoColor=white)](https://www.docker.com/)
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&style=flat-square&logoColor=white)](https://nodejs.org/)
+[![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&style=flat-square&logoColor=black)](https://www.linux.org/)
 
 ## 🚀 Проекты 🚀
 🔸 HTTP Web server: C++/Docker/Nginx

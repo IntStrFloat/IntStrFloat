@@ -35,9 +35,12 @@
 🔹 Telegram: [@strrrrr1](https://t.me/strrrrr1)
 🔹 Email: gostlix20201@gmail.com
 
+
+## Статистика
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IntStrFloat&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 📸 Личные данные 📸
 ![Вставьте ссылку на фото здесь](https://your-photo-link)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IntStrFloat&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 

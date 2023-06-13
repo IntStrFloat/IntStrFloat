@@ -7,7 +7,7 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&style=flat-square&logoColor=white)](mailto:your-email@example.com)
 
 ## 👨‍💼 Профессиональный заголовок 👨‍💼
-### Backend C++ Developer 💻
+### Backend Developer 💻
 
 ## 📋 Обзор профессионального профиля 📋
 🔹 Стрессоустойчивый программист с опытом работы в команде. 🚀
@@ -27,6 +27,7 @@
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&style=flat-square&logoColor=black)](https://www.linux.org/)
 
 ## 🚀 Проекты 🚀
+🔸 Бэкенд блог (MERN)
 🔸 HTTP Web server: C++/Docker/Nginx
 🔸 Синтаксический анализатор
 🔸 Чат на сокетах C++

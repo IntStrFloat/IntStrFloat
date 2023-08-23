@@ -7,7 +7,7 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&style=flat-square&logoColor=white)](mailto:your-email@example.com)
 
 ## 👨‍💼 Профессиональный заголовок 👨‍💼
-### Backend Developer 💻
+### Fullstack js Developer 💻
 
 ## 📋 Обзор профессионального профиля 📋
 🔹 Стрессоустойчивый программист с опытом работы в команде. 🚀

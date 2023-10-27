@@ -18,7 +18,7 @@
 🔸 Специальность: Информатика и вычислительная техника
 🔸 Год окончания: 2026
 ## Сертификаты
-(http://cdn-bucket.hb.bizmrg.com/purple-images/certificates/Дмитрий_Березнёв_2.png)
+[Клик](http://cdn-bucket.hb.bizmrg.com/purple-images/certificates/Дмитрий_Березнёв_2.png)
 ## 💻 Навыки 💻
 [![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&style=flat-square&logoColor=white)](https://en.cppreference.com/)
 [![JS](https://img.shields.io/badge/-JS-F7DF1E?logo=javascript&style=flat-square&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
